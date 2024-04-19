@@ -41,4 +41,4 @@
 
 ![alt text](https://github.com/MaratKN/sdb_1203/blob/main/6.jpg)
 
-[SQL-файлl](https://github.com/MaratKN/sdb_1203/blob/main/SQL-1.sql)
+[SQL-файл](https://github.com/MaratKN/sdb_1203/blob/main/SQL-1.sql)
